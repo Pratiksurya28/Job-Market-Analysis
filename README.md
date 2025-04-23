@@ -1,6 +1,3 @@
-# Save the README.md content as a downloadable file
-
-readme_content = """
 # 📊 Job Market Analysis Dashboard
 
 An in-depth data analytics project to uncover patterns in the job market for data-related roles. This interactive dashboard provides insights into job demand, salaries, industries, company metrics, skills, and education preferences using real-world job listing data.
